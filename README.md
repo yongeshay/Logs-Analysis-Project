@@ -1,8 +1,3 @@
----
-
-
----
-
 <h1 id="project-overview">Project Overview</h1>
 <blockquote>
 <p>You’ve been hired onto a team working on a newspaper site. The user-facing newspaper site frontend itself, and the database behind it, are already built and running. You’ve been asked to build an <strong>internal reporting tool</strong>  that will use information from the database to discover what kind of articles the site’s readers like.</p>
